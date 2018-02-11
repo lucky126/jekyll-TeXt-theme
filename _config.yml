@@ -45,11 +45,11 @@ timezone: Asia/Shanghai #see https://en.wikipedia.org/wiki/List_of_tz_database_t
 author:
   name: 随心
   email: luckynet@gmail.com #your Email address e.g. someone@site.com
-  # facebook:  #your Facebook username
-  # twitter:  #your Twitter username
-  github:  https://github.com/lucky126 #your GitHub username
+  facebook: SLVelassaru #your Facebook username
+  twitter:  SLVelassaru #your Twitter username
+  github:  lucky126 #your GitHub username
   # googleplus:  #your Google+ username
-  # weibo:  #your Weibo username
+  weibo:  http://weibo.com/345800810 #your Weibo username
   # douban:  #your Douban username
   # linkedin:  #your Linkedin username
 

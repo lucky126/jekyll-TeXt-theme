@@ -8,10 +8,5 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+热爱编程，擅长后端编程：C#，JAVA，Python，PHP。 熟悉数据库设计，项目管理，敏捷开发。:+1:
 
-{% highlight javascript %}
-  (() => console.log('hello, world!'))();
-{% endhighlight %}
-
-## title
