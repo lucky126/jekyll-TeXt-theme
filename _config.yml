@@ -15,7 +15,7 @@ text_color_theme: chocolate #eg: default | dark | forest | ocean | chocolate | o
 ## Base settings ##
 # url:  #the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl: /
-title: lucky's blog
+title: 随心但不所欲的部落格
 description: > #this means to ignore newlines until "nav_lists:"
   lucky's Blog
 
@@ -49,7 +49,7 @@ author:
   twitter:  SLVelassaru #your Twitter username
   github:  lucky126 #your GitHub username
   # googleplus:  #your Google+ username
-  weibo:  http://weibo.com/345800810 #your Weibo username
+  weibo:  345800810 #your Weibo username
   # douban:  #your Douban username
   # linkedin:  #your Linkedin username
 
