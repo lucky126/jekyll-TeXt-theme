@@ -1,15 +1,14 @@
 ---
 layout: post
-title: 开篇小记 - Simplified Chinese | 简体中文
+title: 开篇小记
 key: 20180211
 tags:
   - 开篇
   - github
-  - Simplified Chinese | 简
 lang: zh-Hans
 ---
 
-##开篇小记
+## 开篇小记
 
 经过两个晚上不懈的努力，终于折腾出来一个可以使用的空间。也总算让自己在github这个知名的网站上开了一个属于自己的空间。
 
