@@ -80,8 +80,8 @@ leancloud:
   # app_key:  #LeanCloud App key
   # app_class:  #LeanCloud App class
 
-# mathjax: true
-# mathjax_autoNumber: true
+mathjax: true
+mathjax_autoNumber: true
 # mermaid: true
 # chart: true
 
