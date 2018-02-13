@@ -37,24 +37,82 @@ lang: zh-Hans
 
 如果一个三角形是直角三角形,那么这个三角形斜边上的中线等于斜边的一半。
 
-为啥呢？
-
-求证一下
+为啥呢？求证一下：
 
 ΔABC是直角三角形，AD是BC上的中线，作AB的中点E，连接DE
+
 ∴BD=CB/2，DE是ΔABC的中位线
+
 ∴DE‖AC（三角形的中位线平行于第三边）
+
 ∴∠DEB=∠CAB=90°（两直线平行，同位角相等）
+
 ∴DE⊥AB
+
 ∴DE是AB的垂直平分线
+
 ∴AD=BD（线段垂直平分线上的点到这条线段两端点的距离相等）
+
 ∴AD=CB/2
 
-继续学习：
+呃……中位线？
+
+#### 三角形中位线定理
+
+三角形的中位线平行于第三边并且等于它的一半。
+ 
+三角形的中位线所构成的小三角形（中点三角形）面积是原三角形面积的四分之一。
+
+为啥呢？证明一下吧。
+
+![TeXt](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike72%2C5%2C5%2C72%2C24/sign=1ecb7cc7b0b7d0a26fc40ccfaa861d6c/dcc451da81cb39db05027723d2160924aa183080.jpg "triangle")
+
+如图，已知△ABC中，D，E分别是AB，AC两边中点。
+
+求证DE平行且等于BC/2
+
+法一：过C作AB的平行线交DE的延长线于F点。
+
+∵CF∥AD
+
+∴∠BAC=∠ACF
+
+∵在△ADE和△CFE中
+
+AE=CE、∠AED=∠CEF、∠BAC=∠ACF
+
+∴△ADE≌△CFE（ASA）
+
+∴AD=CF DE=EF
+
+∵D为AB中点
+
+∴AD=BD
+
+∵AD=CF、AD=BD
+
+∴BD=CF
+
+∵BD∥CF、BD=CF
+
+∴BCFD是平行四边形
+
+∴DF∥BC且DF=BC
+
+∵DE=EF
+
+∴在平行四边形DBCF中DE=BC/2
+
+∴三角形的中位线定理成立.
+
+好吧，继续学习：
 
 5. 如图，Rt△ABC中，∠BAC=90°，AD是斜边BC上的高，则有射影定理如下：
+
 （1）（AD)²=BD·DC。
+
 （2）（AB)²=BD·BC。
+
 （3）（AC)²=CD·BC。
 
 ![TeXt](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=ab65542fb912c8fcb4f3f1cbc40292b4/d833c895d143ad4b08fd60cf82025aafa50f06e9.jpg "triangle")
