@@ -62,20 +62,35 @@ lang: zh-Hans
 证法一：过C作AB的平行线交DE的延长线于F点。
 
 ∵CF∥AD
+ 
 ∴∠BAC=∠ACF
+
 ∵在△ADE和△CFE中
+
 AE=CE、∠AED=∠CEF、∠BAC=∠ACF
+
 ∴△ADE≌△CFE（ASA）
+
 ∴AD=CF DE=EF
+
 ∵D为AB中点
+
 ∴AD=BD
+
 ∵AD=CF、AD=BD
+
 ∴BD=CF
+
 ∵BD∥CF、BD=CF
+
 ∴BCFD是平行四边形
+
 ∴DF∥BC且DF=BC
+
 ∵DE=EF
+
 ∴在平行四边形DBCF中DE=BC/2
+
 ∴三角形的中位线定理成立.
 
 那如何确定两个三角形全等呢？
@@ -91,9 +106,9 @@ RHS（Right angle-Hypotenuse-Side）（直角、斜边、边）（又称HL定理
 好吧，继续学习：
 
 5. 如图，Rt△ABC中，∠BAC=90°，AD是斜边BC上的高，则有射影定理如下：
-（1）（AD)²=BD·DC。
-（2）（AB)²=BD·BC。
-（3）（AC)²=CD·BC。
+1. （AD)²=BD·DC
+2. （AB)²=BD·BC
+3. （AC)²=CD·BC
 
 ![TeXt](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=ab65542fb912c8fcb4f3f1cbc40292b4/d833c895d143ad4b08fd60cf82025aafa50f06e9.jpg "triangle")
 
@@ -107,9 +122,9 @@ RHS（Right angle-Hypotenuse-Side）（直角、斜边、边）（又称HL定理
 射影定理，又称“欧几里德定理”：在直角三角形中，斜边上的高是两条直角边在斜边射影的比例中项，每一条直角边又是这条直角边在斜边上的射影和斜边的比例中项。射影定理是数学图形计算的重要定理。
 
 概述图中，在Rt△ABC中，∠ABC=90°，BD是斜边AC上的高，则有射影定理如下：
-BD²=AD·CD
-AB²=AC·AD
-BC²=CD·AC
+1. BD²=AD·CD
+2. AB²=AC·AD
+3. BC²=CD·AC
  
 咋的？又一个概念：比例中项？继续查找：
  
