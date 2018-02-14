@@ -17,7 +17,7 @@ text_color_theme: chocolate #eg: default | dark | forest | ocean | chocolate | o
 baseurl: /
 title: 随心但不所欲的部落格
 description: > #this means to ignore newlines until "nav_lists:"
-  lucky's Blog
+  随心但不所欲的部落格，随心但不所以，部落格，技术，编程，coding，programmer
 
 nav_lists:
   - titles:
