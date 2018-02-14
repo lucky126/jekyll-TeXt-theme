@@ -37,13 +37,16 @@
           $body.animate({ scrollTop: destination }, duration, callback);
         }
       });
-      
-      var _hmt = _hmt || [];
+    </script>
+<script>
+var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?7c269866c850cdb860f5916119969339";
   var s = document.getElementsByTagName("script")[0]; 
-    </script>
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
     {%- include utils/mathjax.html -%}
     {%- include utils/mermaid.html -%}
     {%- include utils/chart.html -%}
