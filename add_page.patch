@@ -1,0 +1,127 @@
+Index: _posts/2018-02-13-review-triangle-theorem.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- _posts/2018-02-13-review-triangle-theorem.md	(revision 0ddababe7c712fd9eca4952885b1fa6f8b4581f8)
++++ _posts/2018-02-13-review-triangle-theorem.md	(date 1518528928000)
+@@ -24,11 +24,8 @@
+ 直角三角形除了具有一般三角形的性质外，具有一些特殊的性质：
+ 
+ 1. 直角三角形两直角边的平方和等于斜边的平方。如图，∠BAC=90°，则AB²+AC²=BC²（勾股定理)
+-
+ 2. 在直角三角形中，两个锐角互余。如图，若∠BAC=90°，则∠B+∠C=90°
+-
+ 3. 直角三角形中，斜边上的中线等于斜边的一半（即直角三角形的外心位于斜边的中点，外接圆半径R=C/2）。该性质称为直角三角形斜边中线定理。
+-
+ 4. 直角三角形的两直角边的乘积等于斜边与斜边上高的乘积。
+ 
+ 啥？直角三角形斜边中线定理？
+@@ -40,27 +37,19 @@
+ 为啥呢？求证一下：
+ 
+ ΔABC是直角三角形，AD是BC上的中线，作AB的中点E，连接DE
+-
+ ∴BD=CB/2，DE是ΔABC的中位线
+-
+ ∴DE‖AC（三角形的中位线平行于第三边）
+-
+ ∴∠DEB=∠CAB=90°（两直线平行，同位角相等）
+-
+ ∴DE⊥AB
+-
+ ∴DE是AB的垂直平分线
+-
+ ∴AD=BD（线段垂直平分线上的点到这条线段两端点的距离相等）
+-
+ ∴AD=CB/2
+ 
+ 呃……中位线？
+ 
+ #### 三角形中位线定理
+ 
+-三角形的中位线平行于第三边并且等于它的一半。
+- 
++三角形的中位线平行于第三边并且等于它的一半。 
+ 三角形的中位线所构成的小三角形（中点三角形）面积是原三角形面积的四分之一。
+ 
+ 为啥呢？证明一下吧。
+@@ -68,41 +57,25 @@
+ ![TeXt](https://gss3.bdstatic.com/-Po3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike72%2C5%2C5%2C72%2C24/sign=1ecb7cc7b0b7d0a26fc40ccfaa861d6c/dcc451da81cb39db05027723d2160924aa183080.jpg "triangle")
+ 
+ 如图，已知△ABC中，D，E分别是AB，AC两边中点。
+-
+ 求证DE平行且等于BC/2
+ 
+-法一：过C作AB的平行线交DE的延长线于F点。
++证法一：过C作AB的平行线交DE的延长线于F点。
+ 
+ ∵CF∥AD
+-
+ ∴∠BAC=∠ACF
+-
+ ∵在△ADE和△CFE中
+-
+ AE=CE、∠AED=∠CEF、∠BAC=∠ACF
+-
+ ∴△ADE≌△CFE（ASA）
+-
+ ∴AD=CF DE=EF
+-
+ ∵D为AB中点
+-
+ ∴AD=BD
+-
+ ∵AD=CF、AD=BD
+-
+ ∴BD=CF
+-
+ ∵BD∥CF、BD=CF
+-
+ ∴BCFD是平行四边形
+-
+ ∴DF∥BC且DF=BC
+-
+ ∵DE=EF
+-
+ ∴在平行四边形DBCF中DE=BC/2
+-
+ ∴三角形的中位线定理成立.
+ 
+ 那如何确定两个三角形全等呢？
+@@ -110,23 +83,16 @@
+ #### 全等三角形
+ 
+ SSS（Side-Side-Side）（边边边）：三边对应相等的三角形是全等三角形。
+-
+ SAS（Side-Angle-Side）（边角边）：两边及其夹角对应相等的三角形是全等三角形。
+-
+ ASA（Angle-Side-Angle）（角边角）：两角及其夹边对应相等的三角形全等。
+-
+ AAS（Angle-Angle-Side）（角角边）：两角及其一角的对边对应相等的三角形全等。
+-
+ RHS（Right angle-Hypotenuse-Side）（直角、斜边、边）（又称HL定理(斜边、直角边)）：在一对直角三角形中，斜边及另一条直角边相等。（它的证明是用SSS原理）
+ 
+ 好吧，继续学习：
+ 
+ 5. 如图，Rt△ABC中，∠BAC=90°，AD是斜边BC上的高，则有射影定理如下：
+-
+ （1）（AD)²=BD·DC。
+-
+ （2）（AB)²=BD·BC。
+-
+ （3）（AC)²=CD·BC。
+ 
+ ![TeXt](https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/w%3D268/sign=ab65542fb912c8fcb4f3f1cbc40292b4/d833c895d143ad4b08fd60cf82025aafa50f06e9.jpg "triangle")
+@@ -141,11 +107,8 @@
+ 射影定理，又称“欧几里德定理”：在直角三角形中，斜边上的高是两条直角边在斜边射影的比例中项，每一条直角边又是这条直角边在斜边上的射影和斜边的比例中项。射影定理是数学图形计算的重要定理。
+ 
+ 概述图中，在Rt△ABC中，∠ABC=90°，BD是斜边AC上的高，则有射影定理如下：
+-
+ BD²=AD·CD
+-
+ AB²=AC·AD
+-
+ BC²=CD·AC
+  
+ 咋的？又一个概念：比例中项？继续查找：
