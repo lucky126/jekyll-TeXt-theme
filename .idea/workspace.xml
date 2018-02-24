@@ -17,8 +17,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-02-24-big-data-and-machine-learning-reading-1.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="616">
-                <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <first_editor relative-caret-position="436">
+                <caret line="77" column="43" lean-forward="false" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -138,7 +138,7 @@
       <workItem from="1519352619343" duration="559000" />
       <workItem from="1519474564724" duration="473000" />
       <workItem from="1519475147027" duration="269000" />
-      <workItem from="1519476629195" duration="4485000" />
+      <workItem from="1519476629195" duration="5738000" />
     </task>
     <task id="LOCAL-00001" summary="edit config">
       <created>1518348852802</created>
@@ -235,7 +235,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11041000" />
+    <option name="totallyTimeSpent" value="12294000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -681,8 +681,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-02-24-big-data-and-machine-learning-reading-1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="616">
-            <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <first_editor relative-caret-position="436">
+            <caret line="77" column="43" lean-forward="false" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
             <folding />
           </first_editor>
           <second_editor />
