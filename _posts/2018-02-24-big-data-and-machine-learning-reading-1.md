@@ -63,7 +63,7 @@ $$f(x)=\frac{1}{\sqrt{2\pi}\sigma}\exp\left(-\frac{(x-\mu)^2}{2\sigma^2}\right)$
 
 ### 泊松分布（Poisson）
 
-$$P(X=k)=\frac{\lambda^k}{K!}e^{-\lambda}, k=0,1,2,3,……$$
+$$P(X=k)=\frac{\lambda^k}{K!}e^{-\lambda}, k=0,1,2,3,{\cdots}$$
 
 适用需要满足的条件：
 1. 这个事件是一个小概率事件。
