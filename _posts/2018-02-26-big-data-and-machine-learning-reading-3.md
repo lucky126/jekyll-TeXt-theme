@@ -84,6 +84,6 @@ numpy的矩阵处理，X[:,：1]中逗号前面是行的取值范围，后面是
 
 第三步，求出霍普金斯统计量H：
 
-$$H=\frac{\sum_{i=1}^n y_i}{\sum_{i=1}^n x_i+\sum_{i=1}^n y_i}$$
+$$ H=\frac{\sum_{i=1}^n{y_i}}{\sum_{i=1}^n{x_i}+\sum_{i=1}^n{y_i}} $$
 
 
