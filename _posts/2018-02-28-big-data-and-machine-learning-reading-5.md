@@ -28,3 +28,5 @@ TSP问题（Traveling Salesman Problem ，旅行商问题）、九宫问题（�
 
 ***插一嘴***，微软今天发布了基于量子计算的框架Quantum Development Kit和Q#语言，参考地址是：[点击这里](https://docs.microsoft.com/zh-cn/quantum/quantum-installconfig?view=qsharp-preview&tabs=tabid-vscode)
 
+遗传算法在数学上实际是采用梯度下降的方法来求解问题的。
+
