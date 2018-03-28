@@ -18,7 +18,7 @@ modify_date: 2018-03-09
 ### 人工神经网络（Artificial Neural Network， ANN）
 
 激励函数
-
+<!--more-->
 $$f(x)=\sum_{x=1}^nw_ix_i=w^Tx$$
 
 逻辑回归（Logistic Regression）
