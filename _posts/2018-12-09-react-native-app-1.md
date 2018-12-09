@@ -12,7 +12,7 @@ lang: zh-Hans
 # React Native APP开发学习笔记1
 
 ## 开发环境准备
-
+<!--more-->
 ### 安装Homebrew
 Homebrew, Mac系统的包管理器，用于安装NodeJS和一些其他必需的工具软件。
 
